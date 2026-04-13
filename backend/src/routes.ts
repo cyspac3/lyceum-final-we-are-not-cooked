@@ -3,6 +3,12 @@
 // external
 import type { FastifyInstance } from "fastify";
 
+server.get("/"
+
+    
+)
+
+
 // internal
 
 
