@@ -8,6 +8,8 @@ server.get("/"
     
 )
 
+class input():
+    word: str
 
 // internal
 
